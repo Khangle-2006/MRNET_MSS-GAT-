@@ -182,3 +182,7 @@ We provide pre-trained weights for our best models. You can download them direct
 ## License
 This project is licensed under the MIT License  - see the [LICENSE](https://img.shields.io/badge/license-MIT-blue.svg) file for details.
 
+## Acknowledgements
+- [MRNet Dataset](https://stanfordmlgroup.github.io/competitions/mrnet/)
+- [RadImageNet Dataset](https://www.radimagenet.com/)
+- [Graph Attention Networks](https://github.com/gordicaleksa/pytorch-GAT)
