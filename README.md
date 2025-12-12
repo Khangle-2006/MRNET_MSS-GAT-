@@ -83,7 +83,7 @@ Our model achieves competitive performance on the MRNet Validation set:
 ## 🔄 Backbone Pre-training (Optional)
 
 To further boost performance, we pre-train the ResNet-18 backbone on a large-scale medical dataset (RadImageNet) to learn domain-specific features (Modality & Anatomy classification).
- Download the [RadImageNet Dataset](https://www.radimagenet.com/).
+Download the [RadImageNet Dataset](https://www.radimagenet.com/).
 
 **1. Data Structure for Pre-training:**
 Ensure your pre-training data is organized by `Modality` -> `Anatomy` -> `Pathology` -> `Images`:
