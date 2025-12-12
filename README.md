@@ -172,6 +172,7 @@ We provide pre-trained weights for our best models. You can download them direct
 | :--- | :--- | :---: | :---: | :---: |
 | **MSS-Net (Best Balanced)** | Multi-Scale + Shift + Focal Loss | **0.8162** | **0.9517** | [Google Drive Link](https://drive.google.com/drive/u/0/folders/1jbHcjEdcXagtRVd-leYx3S3GZNE9J3sY) |
 | **Backbone Only** | Pre-trained ResNet-18 (Medical) | N/A | N/A | [Google Drive Link](https://drive.google.com/drive/u/0/folders/1jbHcjEdcXagtRVd-leYx3S3GZNE9J3sY) |
+| **Gradcam** | ACL and Meniscus using Gradcam | N/A | N/A | [Google Drive Link](https://drive.google.com/drive/u/0/folders/1jbHcjEdcXagtRVd-leYx3S3GZNE9J3sY) |
 
 *Please download the `.pth` files and place them in the root directory.*
 
