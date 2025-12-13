@@ -42,7 +42,7 @@ Our model achieves competitive performance on the MRNet Validation set:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Khangle-2006/MRNET_MSS-GAT
-    cd MSS-Net
+    cd MRNET_MSS-GAT
     ```
 
 2.  **Create Environment:**
