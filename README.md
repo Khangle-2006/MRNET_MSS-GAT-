@@ -154,7 +154,7 @@ python visualize.py
 
 **Visual Output Explanation:**
 The script generates images in `vis_results_Static_MultiScale/` containing:
-* **Heatmap (Jet Colormap):** Indicates high-attention regions (Red = High, Blue = Low).
+* **Heatmap (Jet Colormap):** Indicates high-attention regions.
 * **<span style="color:green">Green Box:</span>** Represents the **Close View (Zoom 0.55)**, focusing on the ACL region.
 * **<span style="color:blue">Blue Box:</span>** Represents the **Mid View (Zoom 0.75)**, covering the Meniscus boundaries.
 
